@@ -6,7 +6,7 @@ namespace Exercício_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Caixa eletrônico");
+            Console.WriteLine("Caixa eletrônico do Lekinho");
 
             int n1 = 0;
             int n2 = 0;
